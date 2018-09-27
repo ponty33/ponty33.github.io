@@ -32,35 +32,31 @@ skills:
 #Work experience is required
 roles:
  - title: Assistant Language Teacher
-   start: 2015
-   end: 2018
+   start: April 2015
+   end: March 2018
    employer: Heart Corporation, Yokohama, Japan
    description: 
     -Conducted classroom activities with students based on differentiated learning needs
-    -Worked with classes with various size from 5 to 40 students
     -Designed curriculum for weekly classes including written assignments and oral activities
     -Encouraged students to be confident in speaking English
     -Assisted Japanese English teachers in classroom activities, lesson plans, instruction
  - title: Sales Representative
-   start: 2014
-   end: 2014
+   start: March 2014
+   end: August 2014
    employer: Cellularbaby, B.C., Canada
    description:  
-    -Became top 5 sales in the company in 3 months 
     -Educated and engaged customers through product demonstrations 
     -Handled phone inquiries from customers on billing issues or troubleshooting errors
     -Educated customers regarding the benefits of products and services 
-    -Performed daily opening and closing procedures
     -Trained new employees in sales skills, product design specification, and company system
  - title: General Service Assistant
-   start: 2013
-   end: 2014
+   start: September 2013
+   end: March 2014
    employer: T&T Supermarket, B.C., Canada
    description: 
     -Responded to customer inquiries in a professional manner
     -Cashier experience, maintaining daily accounting of own till amount
     -Educated customers regarding the benefits of products and services
-    -Checked quality and quantity of incoming merchandise, and organized incoming products according to different departments
    
 #Education is required
 education:
