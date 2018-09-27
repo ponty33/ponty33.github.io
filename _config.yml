@@ -76,8 +76,8 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
-  https://github.com/ponty33/tweeter
-  https://github.com/ponty33/tinyApp
+ - ponty33/tweeter
+ - ponty33/tinyApp
 
 
 
