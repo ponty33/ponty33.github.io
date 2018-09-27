@@ -7,19 +7,19 @@
 			<table class="table table-striped table-hover table-condensed">
 				<thead>
 					<tr>
+						<th class="hidden-sm hidden-xs" ><a style="cursor: pointer;">School</a></th>
 						<th><a style="cursor: pointer;">Certification</a></th>
 						<th><a style="cursor: pointer;">Subject</a></th>
-						<th><a style="cursor: pointer;">Date Completed</a></th>
-						<th class="hidden-sm hidden-xs" ><a style="cursor: pointer;">University</a></th>
+						<th><a style="cursor: pointer;">Year Completed</a></th>
 					</tr>
 				</thead>
 				<tbody>
 					{% for edu in site.education %}
 						<tr id="EducationData_2500">
-							<td>{{edu.level}}</td>
+							<td class="hidden-sm hidden-xs" >{{edu.school}}</td>
+              <td>{{edu.level}}</td>
 							<td>{{edu.subject}}</td>
 							<td>{{edu.date}}</td>
-							<td class="hidden-sm hidden-xs" >{{edu.school}}</td>
 						</tr>
 					{% endfor %}
 				</tbody>
