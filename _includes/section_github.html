@@ -5,21 +5,8 @@
 		</div>
 		<div class="content-rounded-panel" style="overflow: hidden;">
 			<div>
-				{% for project in site.github %}
-					{% assign loopindex = forloop.index | modulo: 2 %}
-					{% if loopindex == 1 %}
-					<div class="row">
-					{% endif %}
-						<div class="col-lg-6">
-							<div class="github-widget" data-repo="{{project}}"></div>
-						</div>
-					{% if loopindex == 0 %}
-					</div>
-					{% endif %}
-				{% endfor %}
-				{% if loopindex == 1 %}
-					</div>
-				{% endif %}
+				<a href="https://github.com/ponty33/tinyApp">TinyApp</a>
+				<a href="https://github.com/ponty33/tweeter">Tweeter</a>
 			</div>
 		</div>
 	</div>
