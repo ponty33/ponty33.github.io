@@ -25,13 +25,13 @@
 	background-color: #005985;
 	text-shadow:none;
 	font-weight: normal;
-	
 }
 .label {
 	padding: 1px 4px 2px;
 	-webkit-border-radius: 0px;
 	-moz-border-radius: 0px;
-	border-radius: 0px;
+  border-radius: 5px;
+  font-size: 1em;
 }
 
 /** Flat Buttons **/

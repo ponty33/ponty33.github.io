@@ -16,6 +16,7 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - JavaScript
+ - Ruby
  - HTML
  - CSS
  - NodeJS
@@ -23,6 +24,7 @@ skills:
  - Express
  - EJS
  - JQuery
+ - React
  - SQL
  - MongoDB
  - REST

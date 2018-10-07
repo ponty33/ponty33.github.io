@@ -420,3 +420,11 @@ td.loginRow {
 .github-box {
 	margin-top: 15px;
 }
+
+#photo {
+  float: left;
+}
+
+#contact {
+  float: right;
+}
