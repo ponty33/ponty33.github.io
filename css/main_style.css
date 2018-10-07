@@ -121,7 +121,8 @@ table {
 	margin-bottom:10px;
 }
 .top-rounded-panel {
-	padding-left:15px;
+  display: flex;
+  padding-left:15px;
     -moz-border-radius-topleft: 5px;
     -moz-border-radius-topright: 5px;
     -webkit-border-top-left-radius: 5px;
@@ -427,6 +428,7 @@ td.loginRow {
 
 #contact {
   float: right;
+  padding-left: 2em;
 }
 
 .rounded_panel {
