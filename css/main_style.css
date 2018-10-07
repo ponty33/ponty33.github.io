@@ -428,3 +428,7 @@ td.loginRow {
 #contact {
   float: right;
 }
+
+.rounded_panel {
+  padding-left: 13px;
+}
