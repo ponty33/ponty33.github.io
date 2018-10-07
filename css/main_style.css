@@ -136,7 +136,7 @@ table {
 	padding-top: 15px;
 }
 #user-intro {
-  color: #ff3500;
+  color: blue;
 	font-weight: 300;
 	padding-top: 15px;
 	font-size: 3em;
@@ -432,5 +432,8 @@ td.loginRow {
 }
 
 .rounded_panel {
+  border-radius: 1em;
   padding-left: 13px;
+  border-style: solid;
+  border-color: red;
 }
